@@ -1,6 +1,7 @@
-
+from funcoes_mat import soma
 
 nome = "Gabriel"
 ultimo_nome = "Carvalho"
 
-print("Nome: {nome}, Ultimo Nome: {ultimo_nome}")
+print(f"Nome: {nome}, Ultimo Nome: {ultimo_nome}")
+print(soma(2,3))
