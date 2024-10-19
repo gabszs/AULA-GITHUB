@@ -1,6 +1,6 @@
 
 
 nome = "Gabriel"
-sobrenome = "Carvalho"
+ultimo_nome = "Carvalho"
 
-print(nome + sobrenome)
+print("Nome: {nome}, Ultimo Nome: {ultimo_nome}")
